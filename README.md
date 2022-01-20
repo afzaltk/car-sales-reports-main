@@ -44,6 +44,8 @@ The location of the output data is in resource folder as csv file. However this 
 
 1. revenue_report.csv : 
     1. Location : /resources/output/revenue_report.csv
+    
+    ![output.png](./output.png)
 
 
 ## License
