@@ -40,7 +40,9 @@ The location of the source data is in resource folder. However this has to be mo
    2. Location : /resources/input/transactions.csv
 
 #### Output data: 
-The location of the output data is in resource folder as csv file. However this has to be modified in future to include various data sources such as S3, HDFS etc...
+The location of the output data is in resource folder as csv file. However this can be modified in future to include various data sources such as S3, HDFS etc...
+
+The csv contains all the required data in separate columns. This can be split into different reports if needed.
 
 1. revenue_report.csv : 
     1. Location : /resources/output/revenue_report.csv
