@@ -7,10 +7,8 @@ import sys
 
 from reports.conversion_report import generate_conversion_report
 
-
 def main(project_dir):
     generate_conversion_report(project_dir)
-
 
 if __name__ == '__main__':
     # TODO:
